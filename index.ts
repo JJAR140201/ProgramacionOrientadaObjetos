@@ -40,8 +40,14 @@ class Android extends Smartphone {
     }
 }
 
+let android = new Android('Red');
+
 class Iphone extends Smartphone {
     constructor(color: string){
         super(color, 'Iphone');
     }
 }
+let iphone = new Iphone('White');
+
+android.recharge();
+iphone.makeAPhoneCall();
