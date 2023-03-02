@@ -15,3 +15,5 @@ class Smartphone {
 //Programacion Orientada a Objetos
 let obj = new Smartphone('White', 'Iphone');
 obj.makeAPhoneCall();
+obj.color = 'Red'
+obj.brand = 'Android'
