@@ -12,5 +12,6 @@ class Smartphone {
     makeAPhoneCall(): void {
     }
 }
-
+//Programacion Orientada a Objetos
 let obj = new Smartphone('White', 'Iphone');
+obj.makeAPhoneCall();
