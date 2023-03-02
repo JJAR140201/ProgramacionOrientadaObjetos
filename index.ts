@@ -23,6 +23,7 @@ class Smartphone {
     }
 
     recharge(){
+        console.log('Se a recargado la bateria');
         this._battery = 100;
     }
 }
@@ -30,3 +31,17 @@ class Smartphone {
 let obj = new Smartphone('White', 'Iphone');
 obj.makeAPhoneCall();
 obj.battery;
+
+//Herencia 
+
+class Android extends Smartphone {
+    constructor(color: string){
+        super(color, 'Android');
+    }
+}
+
+class Iphone extends Smartphone {
+    constructor(color: string){
+        super(color, 'Iphone');
+    }
+}
