@@ -1,0 +1,44 @@
+POO (Programacion Orientada a Objetos) 
+-- JAVA --
+
+- Es un paradigma que hace un uso de los objetos para la construccion
+de los software
+
+¿Como pensar en Objetos?
+
+- Paradigma = Forma o estilo de progamar, se hace uso atravez de los objetos
+- Se busca plasmar una similitua a la realidad
+- Algo en la realidad
+- Detallas sus atributos
+- Detalla sus comportamientos
+
+Paradigmas
+
+- Tiene diferente interpretaciones, puede ser un modelo, ejemplo o un patron
+- En pocas palabras podemos decir que es una forma o estilo de programar
+
+Tipos de paradigmas
+
+- Imperativa = Dar una solucion a un problema (Paso a paso a seguir)
+- Declarativa = Se enfoca en el problema a solucionar 
+-Estructurada = La solucion a un problema sigue una secuencia de inicia a fin
+- Orientada a Objetos = Construye una solucion basada en objetos
+- Funcional = Divide el problema en diversas soluciones que seran ejecutadas para las funciones declaradas
+
+
+¿Que son las clases y los objetos?
+
+- Una clase es una plantilla (Plasmas cualidades a un codigo)
+- Un objeto es la instancia de una clase
+
+Principios POO
+Son una seria de conceptos y fundamentos a tener encuenta
+- Abstraccion = La forma de plasmar algo hacia el codigo para enfocarnos en su uso ( Facilita en enfocarse en dicha clase para solucionar el problema )
+- Encapsulamiento = No toda la infromacion de nuestro objeto es relevante y/o accesible para el usuario
+- Herencia = La cualidad de heredar caracteristicas de otra clase
+- Polimorfismo
+
+Objetos 
+- Estados
+- Comportamiento
+- Identidad
