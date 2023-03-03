@@ -42,3 +42,20 @@ Objetos
 - Estados
 - Comportamiento
 - Identidad
+
+Polimorfismo
+- Las multiples formas que se pueden obtener un objeto si comparte la misma clase o interfaz
+
+Dos formas de hacer Polimorfismo es hacer
+- interfaz = Son un contrato que oblica a una clase a implementar las propiedades y/o metodos
+definidos
+- clases abstractas = Son clases que no se pueden instanciar, solo pueden ser implementadas atraves de la herencia
+
+Diferencias 
+Clases Abstractas
+1). Limitadas a una sola Implementacion
+2). Pueden definir comportamientos base
+
+Interfaz
+1) No tiene limitacion de Implementacion
+2) Expone metodos abstractos (Sin Logica)
